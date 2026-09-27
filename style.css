@@ -19,6 +19,14 @@ body
     padding: 15px 30px;
 }
 
+.bigInfo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 15px 30px;
+}
+
 /* Conteneur des liens */
 .menu {
     display: flex;
@@ -37,9 +45,9 @@ body
     color: white;
 }
 
-p,h1,h2,h3
+p,h1,h2,h3,li
 {
     max-width: 1200px;
     margin: auto;
-    padding: 20px;
+    padding: 5px;
 }
